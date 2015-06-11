@@ -17,3 +17,6 @@ temp-testng-customsuite.xml
 test-output
 .externalToolBuilders
 *~
+/Users/
+/LICENSE
+/README.md
