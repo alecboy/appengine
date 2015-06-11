@@ -74,6 +74,9 @@
                             <targetPath>WEB-INF</targetPath>
                         </resource>
                     </webResources>
+                    <dependentWarIncludes>
+                    	WEB-INF/lib/*.*
+                    </dependentWarIncludes>
                 </configuration>
             </plugin>
 
