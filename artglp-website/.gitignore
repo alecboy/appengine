@@ -13,6 +13,7 @@ test-output/
 .classpath
 .settings
 .project
+.tern-project
 temp-testng-customsuite.xml
 test-output
 .externalToolBuilders
