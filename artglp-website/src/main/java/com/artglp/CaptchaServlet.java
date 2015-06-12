@@ -11,13 +11,13 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-//import org.toyz.litetext.FontUtils;
+import org.toyz.litetext.FontUtils;
 
-import com.google.appengine.api.images.Image;
 import com.google.appengine.api.images.ImagesService;
 import com.google.appengine.api.images.ImagesServiceFactory;
-import com.google.appengine.api.images.Transform;
+import com.google.appengine.api.images.Image;
 import com.google.appengine.api.images.ImagesService.OutputEncoding;
+import com.google.appengine.api.images.Transform;
 
 public class CaptchaServlet extends HttpServlet {
 
@@ -31,13 +31,12 @@ public class CaptchaServlet extends HttpServlet {
 
 		log.info(getServletName() + " started");
 
-		//String fontname = "Lucida-Bold-Italic";
+		String fontname = "Lucida-Bold-Italic";
 		String text = "15975";
 
-		//FontUtils fm = new FontUtils();
+		FontUtils fm = new FontUtils();
 
-		//byte[] bmp_data = fm.doRender(text, fontname);
-		byte[] bmp_data = "0000".getBytes();
+		byte[] bmp_data = fm.doRender(text, fontname);
 
 		log.info("BMP image created");
 
