@@ -12,7 +12,7 @@
 		<description></description>
 		<display-name>CaptchaServlet</display-name>
 		<servlet-name>CaptchaServlet</servlet-name>
-		<servlet-class>com.gloria.CaptchaServlet</servlet-class>
+		<servlet-class>com.artglp.CaptchaServlet</servlet-class>
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>CaptchaServlet</servlet-name>
@@ -23,7 +23,7 @@
 		<description></description>
 		<display-name>MailServlet</display-name>
 		<servlet-name>MailServlet</servlet-name>
-		<servlet-class>com.gloria.MailServlet</servlet-class>
+		<servlet-class>com.artglp.MailServlet</servlet-class>
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>MailServlet</servlet-name>
