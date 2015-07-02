@@ -20,7 +20,7 @@
 					</a></li>
 				</ul>
 				<p class="copyright text-muted">Copyright &copy; Gloria L.
-					Paniagua 2015</p>
+					Paniagua L. 2015</p>
 			</div>
 		</div>
 	</div>
