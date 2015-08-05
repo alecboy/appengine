@@ -80,7 +80,7 @@
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 					<div class="site-heading">
-						<h1>Gloria L. Paniagua</h1>
+						<h1>Gloria L. Paniagua L.</h1>
 						<hr class="small">
 						<p>The line and color convey the transitions from one state of
 							being to the next, the passage from life to death and beyond. The

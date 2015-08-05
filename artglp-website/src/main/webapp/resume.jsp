@@ -74,7 +74,7 @@
 	<!-- Page Header -->
 	<!-- Set your background image for this header on the line below. -->
 	<header class="intro-header"
-		style="background-image: url('img/page-bg-03.jpg')">
+		style="background-image: url('img/page-bg-14.jpg')">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -98,23 +98,25 @@
 					City
 				</h4>
 				<hr>
-				<h3>Education 2010 - 2014</h3>
+				<h3>Education</h3>
 				<ul>
-					<li>National Academy Museum "School of Fine Arts, New York,
-						New York The Scale of Color in Paint with Professor Jonathan
-						Allmaier and Portrait" Figure in Clay with Professor Barney Hodes,
-						2010 - 2013</li>
-					<li>Libre University School of Law, Cali, Colombia - Masters
-						degree in Administrative Law 1997 Juris Doctor 1991</li>
+					<li>National Academy Museum &amp; School of Fine Arts, New
+						York, New York The Scale of Color in Paint with Professor Jonathan
+						Allmaier and Portrait &amp; Figure in Clay with Professor Barney
+						Hodes, 2010 - 2014</li>
+					<li>Libre University School of Law, Juris Doctor - 1991, Cali,
+						Colombia</li>
+					<li>Masters degree in Administrative Law - 1997, Cali,
+						Colombia</li>
 					<li>Seminar-workshop on drafting, Cali, Colombia with
 						Professor Mario Gordillo - 1997</li>
 					<li>Popular Institute of Culture, School of arts, Cali,
-						Colombia Bachelor of Fine Arts 1996</li>
-					<li>Libre University, Cali, Colombia Seminar - workshop on
-						history of art 1993</li>
+						Colombia Bachelor of Fine Arts - 1996</li>
+					<li>Libre University, Cali, Colombia Seminar-workshop on
+						history of art - 1993</li>
 					<li>Libre University, HQ, Bogota, Colombia - Seminar First
 						Encounter of Universities for the Plastic Arts Iberoamericano of
-						Universidades I.C.F.E.S. - 1992</li>
+						Universidades I.C.F.E.S., - 1992</li>
 					<li>Seminar-workshop on restoration, Cali, Colombia
 						Restoration of ancient art as cultural patrimony, techniques in
 						paper, photography, sculpture, modern art and ancient painting on
@@ -124,25 +126,27 @@
 				<hr>
 				<h3>Solo Exhibitions</h3>
 				<ul>
+					<li>2014 Rainforest Art Gallery, New York, New York</li>
+					<li>2014 Adelphi University, New York, New York</li>
 					<li>2013 Pangea, New York, New York</li>
-					<li>2013 PJorge Guttlein &amp; Associates, New York, New York</li>
+					<li>2013 George Guttlein &amp; Associates, New York, New York</li>
 					<li>2008 Art and Culture Institute, Miami, Florida</li>
-					<li>2007 Galería Enrique Guerrero, México, D.F., México</li>
+					<li>2007 Gallery Enrique Guerrero, México, D.F., México</li>
 					<li>2006 "Aborigen Collection", Aldo Castillo Gallery,
 						Chicago, Illinois</li>
 					<li>2005 Johnen Galerie, Berlin, Germany</li>
 					<li>2004 Uncommon Gallery Of Art, Fort Lauderdale, Florida</li>
 					<li>2002 Green Naftali Gallery, New York, New York</li>
-					<li>2001 Galería Maria Salvat, Barcelona, Spain</li>
+					<li>2001 Gallery Maria Salvat, Barcelona, Spain</li>
 					<li>1999 Galerie d'Art Martine Moisan, Paris, France</li>
 					<li>1998 University Art Gallery, University of California,
 						Berkeley, California</li>
 					<li>1995 Club Ejecutivos, Cali, Colombia</li>
-					<li>1995 Galería Navas, Bogota, Colombia</li>
+					<li>1995 Gallery Navas, Bogota, Colombia</li>
 					<li>1993 Cámara de Comercio, Cali, Colombia</li>
 					<li>1993 Casa del Valle, Bogota, Colombia</li>
 					<li>1993 Casa de la cultura, Candelaria, Colombia</li>
-					<li>1993 Galería Lloreda, Cali, Colombia</li>
+					<li>1993 Gallery Lloreda, Cali, Colombia</li>
 					<li>1993 Cosmos XXI Gallery, Cali, Colombia</li>
 				</ul>
 				<hr>
