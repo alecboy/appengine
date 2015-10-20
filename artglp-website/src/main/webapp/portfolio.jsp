@@ -98,7 +98,7 @@
 					<img src="img/gloria1_3.png" class="img-responsive center-block"/>
 					<h3 class="text-center">Untitled</h3>
 					<p class="text-center">
-						Oil on canvas 48" x 60" (120 x 150 cm.) <br />2013 Price: $9,500
+						Oil on canvas 48" x 60" (120 x 150 cm.) <br />2013
 					</p>
 					<form action="https://www.paypal.com/cgi-bin/webscr" method="post"
 						target="_blank">
@@ -116,7 +116,7 @@
 					<img src="img/gloria2_3.png" class="img-responsive center-block"/>
 					<h3 class="text-center">Untitled</h3>
 					<p class="text-center">
-						Oil on canvas 48" x 60" (120 x 150 cm.)<br />2013 Price: $9,500
+						Oil on canvas 48" x 60" (120 x 150 cm.)<br />2013
 					</p>
 					<form action="https://www.paypal.com/cgi-bin/webscr" method="post"
 						target="_blank">
@@ -134,7 +134,7 @@
 					<img src="img/gloria3_3.png" class="img-responsive center-block"/>
 					<h3 class="text-center">Untitled</h3>
 					<p class="text-center">
-						Oil on canvas 48" x 60" (120 x 150 cm.)<br />2013 Price: $9,500
+						Oil on canvas 48" x 60" (120 x 150 cm.)<br />2013
 					</p>
 					<form action="https://www.paypal.com/cgi-bin/webscr" method="post"
 						target="_blank">
@@ -154,7 +154,7 @@
 					<img src="img/gloria4_3.png" class="img-responsive center-block"/>
 					<h3 class="text-center">Untitled</h3>
 					<p class="text-center">
-						Oil on canvas 48" x 48" (120 x 120 cm.)<br />2013 Price: $6,800
+						Oil on canvas 48" x 48" (120 x 120 cm.)<br />2013
 					</p>
 					<form action="https://www.paypal.com/cgi-bin/webscr" method="post"
 						target="_blank">
@@ -173,7 +173,7 @@
 						class="img-responsive center-block"/>
 					<h3 class="text-center">Untitled</h3>
 					<p class="text-center">
-						Oil on canvas 48" x 48" (120 x 120 cm.)<br />2013 Price: $6,800
+						Oil on canvas 48" x 48" (120 x 120 cm.)<br />2013
 					</p>
 					<form action="https://www.paypal.com/cgi-bin/webscr" method="post"
 						target="_blank">
@@ -192,7 +192,7 @@
 						class="img-responsive center-block">
 					<h3 class="text-center">Untitled</h3>
 					<p class="text-center">
-						Oil on canvas 36" x 24" (90 x 61 cm.)<br />2013 Price: $3,800
+						Oil on canvas 36" x 24" (90 x 61 cm.)<br />2013
 					</p>
 					<form action="https://www.paypal.com/cgi-bin/webscr" method="post"
 						target="_blank">
@@ -213,7 +213,7 @@
 						class="img-responsive center-block">
 					<h3 class="text-center">Untitled</h3>
 					<p class="text-center">
-						Oil on canvas 36" x 24" (90 x 61 cm.)<br />2013 Price: $3,800
+						Oil on canvas 36" x 24" (90 x 61 cm.)<br />2013
 					</p>
 					<form action="https://www.paypal.com/cgi-bin/webscr" method="post"
 						target="_blank">
@@ -232,7 +232,7 @@
 						class="img-responsive center-block"/>
 					<h3 class="text-center">Untitled</h3>
 					<p class="text-center">
-						Oil on canvas 36" x 24" (90 x 61 cm.)<br />2013 Price: $3,800
+						Oil on canvas 36" x 24" (90 x 61 cm.)<br />2013
 					</p>
 					<form action="https://www.paypal.com/cgi-bin/webscr" method="post"
 						target="_blank">
@@ -251,7 +251,7 @@
 						class="img-responsive center-block"/>
 					<h3 class="text-center">Untitled</h3>
 					<p class="text-center">
-						Oil on canvas 48 x 72" (120 x 180 cm.)<br />2012 Price: $13,500
+						Oil on canvas 48 x 72" (120 x 180 cm.)<br />2012
 					</p>
 					<form action="https://www.paypal.com/cgi-bin/webscr" method="post"
 						target="_blank">
