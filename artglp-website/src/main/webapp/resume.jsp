@@ -100,6 +100,7 @@
 				<hr>
 				<h3>Education</h3>
 				<ul>
+					<li>The Art Students League of New York, Drawing, Painting, Color, Design, with Professor Ronnie Landfield, 2015 - 2016</li>
 					<li>National Academy Museum &amp; School of Fine Arts, New
 						York, New York The Scale of Color in Paint with Professor Jonathan
 						Allmaier and Portrait &amp; Figure in Clay with Professor Barney
@@ -131,7 +132,7 @@
 					<li>2013 Pangea, New York, New York</li>
 					<li>2013 George Guttlein &amp; Associates, New York, New York</li>
 					<li>2008 Art and Culture Institute, Miami, Florida</li>
-					<li>2007 Gallery Enrique Guerrero, MÈxico, D.F., MÈxico</li>
+					<li>2007 Gallery Enrique Guerrero, M√©xico, D.F., M√©xico</li>
 					<li>2006 "Aborigen Collection", Aldo Castillo Gallery,
 						Chicago, Illinois</li>
 					<li>2005 Johnen Galerie, Berlin, Germany</li>
@@ -143,7 +144,7 @@
 						Berkeley, California</li>
 					<li>1995 Club Ejecutivos, Cali, Colombia</li>
 					<li>1995 Gallery Navas, Bogota, Colombia</li>
-					<li>1993 C·mara de Comercio, Cali, Colombia</li>
+					<li>1993 C√°mara de Comercio, Cali, Colombia</li>
 					<li>1993 Casa del Valle, Bogota, Colombia</li>
 					<li>1993 Casa de la cultura, Candelaria, Colombia</li>
 					<li>1993 Gallery Lloreda, Cali, Colombia</li>
@@ -164,9 +165,9 @@
 						Connecticut</li>
 					<li>2004 Bergman Art Gallery (Galleri Bergman), Stockholm,
 						Sweden</li>
-					<li>2004 Galerie Paul Andriesse, √Åmsterdam, Holland</li>
+					<li>2004 Galerie Paul Andriesse, √É¬Åmsterdam, Holland</li>
 					<li>2003 New Masters Gallery, Carmel, California</li>
-					<li>2003 Centro CÌvico Colombiano, New York, New York</li>
+					<li>2003 Centro C√≠vico Colombiano, New York, New York</li>
 					<li>2002 Associazione Margutta Arte Gallery, Roma, Italy</li>
 					<li>2002 Colombian Consulate Gallery, Miami, Florida</li>
 					<li>2001 Auditorio Instituto Cervantes, Colombian Embasy,
@@ -203,10 +204,10 @@
 					<li>1992 Caja Agraria "Obra Negra", Cali, Colombia</li>
 					<li>1992 ICFES Gallery- First Iberoamerican Encounter of the
 						Plastic Arts, Bogota, Colombia</li>
-					<li>1991 GalerÌa de Arte de la GobernaciÛn del Valle del
+					<li>1991 Galer√≠a de Arte de la Gobernaci√≥n del Valle del
 						Cauca, Cali, Colombia</li>
 					<li>1980 Universidad Libre, Cali, Colombia</li>
-					<li>1975 C·mara de Comercio, MedellÌn, Colombia</li>
+					<li>1975 C√°mara de Comercio, Medell√≠n, Colombia</li>
 				</ul>
 				<hr>
 				<h3>Artistic Experience/Activities</h3>
@@ -220,7 +221,7 @@
 					<li>1999 Honorary Member of Plastic Arts Artists, sponsored by
 						the Colombian Consulate of New York, New York</li>
 					<li>1994 - 95 Taught a class on plastic arts at the Bilingual
-						School of CaÒaverales, Cali, Colombia</li>
+						School of Ca√±averales, Cali, Colombia</li>
 					<li>1988 - 95 Director and teacher of the plastic arts
 						department at the Libre University, Cali, Colombia</li>
 					<li>1992 Telepacifico Corvision network, host of "Momento
